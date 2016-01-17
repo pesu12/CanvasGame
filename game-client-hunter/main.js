@@ -9,7 +9,7 @@ $(document).ready(function(){
 
   //declare main variables
   //var broadcasturl = 'ws://127.0.0.1:8127/',
-  var broadcasturl = 'ws://nodejs1.student.bth.se:8127/',
+  var broadcasturl = 'ws://nodejs2.student.bth.se:8127/',
   websocket,
   form = $('#form1'),
   output = $('#output'),
